@@ -5,3 +5,4 @@ The server will receive the problem, evaluate it, and send the answer back to th
 
 
 
+For the chat socket version 1 you recieve your own message back to you, and for version two it will only go to other clients
